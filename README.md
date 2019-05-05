@@ -57,3 +57,15 @@ Below are some of the etiquettes established and are recommended to be followed:
 - All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
 - Add new ideas and the incomplete work to the issues tab of this repository so that they can be passed on easily.
+
+## CONTACT
+
+#### General
+
+For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.com
+
+#### Present Technology Coordinator
+
+*Name:* **Shivam Kumar Jha**
+*Email:* **shivam.cs.iit.kgp@gmail.com**
+*Phone:* **7830380698**
