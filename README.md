@@ -27,7 +27,7 @@ TechCord and Assisstant TechCords should work as a single body to gather, implem
 
 ### What Once Nominated?
 
-Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him the permission to view the [credentials' sheet](https://docs.google.com/spreadsheets/d/1suD221YejD_cHQhJqkA_lA9eyM3Id4dPr3Grjf3-wQk/edit#gid=0).
+Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him the permission to view the crendentials' sheet.
 
 Ethically, the newly nominated person should also gather experience of the former TechCord and Assisstant TechCords and learn from their mistakes and experience and take a note of the projects they have been working on.
 
@@ -36,9 +36,16 @@ Ethically, the newly nominated person should also gather experience of the forme
 TechCord is solely responsible for the maintenance of the following accounts:
 
 ```text
+Github Organisation: Gymkhana IIT KGP
 Gmail: tech.tsgiitkgp@gmail.com
 Server: Gymkhana
 ```
+
+Follow the below procedure to get all the accounts:
+
+- Request edit access to the [credentials' sheet]([credentials' sheet](https://docs.google.com/spreadsheets/d/1suD221YejD_cHQhJqkA_lA9eyM3Id4dPr3Grjf3-wQk/edit#gid=0))
+- Ask former TechCord to make your admin of the Github Organisation.
+- Get all the private Gymkhana repositories tranferred from the former TechCord.
 
 The point of contact inside GymKhana and CIC is [Alokes Chattopadhyay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZamZU&depts_name=CC), Senior System Analyst, Computer & Informatics Centre.
 
@@ -49,3 +56,4 @@ Below are some of the etiquettes established and are recommended to be followed:
 - All code (unless confidential) should be made available under Gymkhana organisation on Github.
 - All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
+- Add new ideas and the incomplete work to the issues tab of this repository so that they can be passed on easily.
