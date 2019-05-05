@@ -2,7 +2,6 @@
 
 This document contains all the relevant information required to get to know more about Technology Coordinator, Technology Students' Gymkhana and take the position as the same.
 
-
 ### Who Is Technology Coordinator?
 
 Technology Coordinator is a nominated post in the Technology Students' Gymkhana, Indian Institute of Technology Kharagpur. The nominated person is responsible for the technological expansion of Gymkhana and the institute and is directly responsible for maintaining the Gymkhana website and implementing proposals of various Gymkhana office bearers.
@@ -17,6 +16,14 @@ The process for the nomination of Technology Coordinator begins after the electi
 1. Request for submission of resumes of interested candidates.
 2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP and the current TechCord.
 ```
+
+### Selection of Assisstant TechCords
+
+Nominated person is also responsible for the nomination of Assisstant Technology Coordinators. The number of bearers can be decided depending upon the planned amount of work; generally it is 2.
+
+The assisstant TechCords will be responsible for assissting TechCord in his ideas and also provide ideas for the technological betterment of the institute.
+
+TechCord and Assisstant TechCords should work as a single body to gather, implement and execute ideas.
 
 ### What Once Nominated?
 
