@@ -14,22 +14,22 @@ The process for the nomination of Technology Coordinator begins after the electi
 
 ```text
 1. Request for submission of resumes of interested candidates.
-2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP and the current TechCord.
+2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP, and the current TechCord.
 ```
 
 ### Selection of Assisstant TechCords
 
-Nominated person is also responsible for the nomination of Assisstant Technology Coordinators. The number of bearers can be decided depending upon the planned amount of work; generally it is 2.
+The nominated person is also responsible for the nomination of Assistant Technology Coordinators. The number of bearers can be decided depending upon the planned amount of work; generally, it is 2.
 
-The assisstant TechCords will be responsible for assissting TechCord in his ideas and also provide ideas for the technological betterment of the institute.
+The assistant TechCords will be responsible for assisting TechCord in his ideas and also provide ideas for the technological betterment of the institute.
 
-TechCord and Assisstant TechCords should work as a single body to gather, implement and execute ideas.
+TechCord and Assistant TechCords should work as a single body to gather, implement and execute ideas.
 
 ### What Once Nominated?
 
-Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him the permission to view the crendentials' sheet.
+Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him permission to view the credentials' sheet.
 
-Ethically, the newly nominated person should also gather experience of the former TechCord and Assisstant TechCords and learn from their mistakes and experience and take a note of the projects they have been working on.
+Ethically, the newly nominated person should also gather experience of the former TechCord and Assistant TechCords and learn from their mistakes and experience and take note of the projects they have been working on.
 
 ### Associated Accounts
 
@@ -45,7 +45,7 @@ Follow the below procedure to get all the accounts:
 
 - Request edit access to the [credentials' sheet]([credentials' sheet](https://docs.google.com/spreadsheets/d/1suD221YejD_cHQhJqkA_lA9eyM3Id4dPr3Grjf3-wQk/edit#gid=0))
 - Ask former TechCord to make your admin of the Github Organisation.
-- Get all the private Gymkhana repositories tranferred from the former TechCord.
+- Get all the private Gymkhana repositories transferred from the former TechCord.
 
 The point of contact inside GymKhana and CIC is [Alokes Chattopadhyay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZamZU&depts_name=CC), Senior System Analyst, Computer & Informatics Centre.
 
@@ -53,10 +53,10 @@ The point of contact inside GymKhana and CIC is [Alokes Chattopadhyay](http://ww
 
 Below are some of the etiquettes established and are recommended to be followed:
 
-- All code (unless confidential) should be made available under Gymkhana organisation on Github.
+- All code (unless confidential) should be made available under Gymkhana organization on Github.
 - All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
-- Add new ideas and the incomplete work to the issues tab of this repository so that they can be passed on easily.
+- **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
 
 ## CONTACT
 
@@ -66,6 +66,6 @@ For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.co
 
 #### Present Technology Coordinator
 
-*Name:* **Shivam Kumar Jha**
-*Email:* **shivam.cs.iit.kgp@gmail.com**
+*Name:* **Shivam Kumar Jha**<br>
+*Email:* **shivam.cs.iit.kgp@gmail.com**<br>
 *Phone:* **7830380698**
