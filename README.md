@@ -27,7 +27,9 @@ TechCord and Assistant TechCords should work as a single body to gather, impleme
 
 ### What Once Nominated?
 
-Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him permission to view the credentials' sheet.
+Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him permission to view the credentials' sheet. 
+
+NOTE: **It is very important to read all the points mentioned in the etiquettes' section and follow (or amend) them.**
 
 Ethically, the newly nominated person should also gather experience of the former TechCord and Assistant TechCords and learn from their mistakes and experience and take note of the projects they have been working on.
 
@@ -57,6 +59,7 @@ Below are some of the etiquettes established and are recommended to be followed:
 - All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
+- [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; mail template for the same is available in the repository. Take email address of all previous governors of all societies and request them to update the wiki page.
 
 ## CONTACT
 
