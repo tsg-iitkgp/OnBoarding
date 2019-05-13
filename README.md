@@ -59,7 +59,7 @@ Below are some of the etiquettes established and are recommended to be followed:
 - All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
-- [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; mail template for the same is available in the repository. Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
+- [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; use last year's mail as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
 
 ## CONTACT
 
