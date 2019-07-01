@@ -60,6 +60,7 @@ Below are some of the etiquettes established and are recommended to be followed:
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
 - [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; use last year's mail as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
+- Posts and emails which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with form Technology Coordinator.
 
 ## CONTACT
 
