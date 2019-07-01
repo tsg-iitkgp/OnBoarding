@@ -1,7 +1,8 @@
 Below is the content for the post made for TechTeam 2018 selections.
 
 >TL;DR, please fill this form to be part of the TechTeam: http://bit.ly/techteam2019
-Technology Students' Gymkhana is going to form a TechTeam headed by Technology Coordinator in order to build and maintain the future projects such as Institute's Android Application, Grievance Portal and much more.
+
+>Technology Students' Gymkhana is going to form a TechTeam headed by Technology Coordinator in order to build and maintain the future projects such as Institute's Android Application, Grievance Portal and much more.
 
 >A learning packed opportunity with lots of avenues to explore including web-development, android app development, backend programming, reactJS, developer-operations and a lot more.
 
