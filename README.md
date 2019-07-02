@@ -1,4 +1,6 @@
-# OnBoarding
+# Welcome To The One-Stop Knowledge Doc For Your Tenure
+
+## OnBoarding
 
 This document contains all the relevant information required to get to know more about Technology Coordinator, Technology Students' Gymkhana and take the position as the same.
 
@@ -33,6 +35,8 @@ NOTE: **It is very important to read all the points mentioned in the etiquettes'
 
 Ethically, the newly nominated person should also gather experience of the former TechCord and Assistant TechCords and learn from their mistakes and experience and take note of the projects they have been working on.
 
+Formation of Gymkhana Tech Team is also the responsibility of Technology Coordinator and more details are available in the same repository inside the file `TechTeam.md`
+
 ### Associated Accounts
 
 TechCord is solely responsible for the maintenance of the following accounts:
@@ -59,12 +63,12 @@ Below are some of the etiquettes established and are recommended to be followed:
 - All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
-- [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; use last year's mail as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
-- Posts and emails which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with form Technology Coordinator.
+- [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; **use last year's mail** as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
+- Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with form Technology Coordinator.
 
 ## CONTACT
 
-#### General
+### General
 
 For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.com
 
