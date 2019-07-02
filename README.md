@@ -49,7 +49,7 @@ Server: Gymkhana
 
 Follow the below procedure to get all the accounts:
 
-- Request edit access to the [credentials' sheet]([credentials' sheet](https://docs.google.com/spreadsheets/d/1suD221YejD_cHQhJqkA_lA9eyM3Id4dPr3Grjf3-wQk/edit#gid=0))
+- Request edit access to the [credentials' sheet](https://docs.google.com/spreadsheets/d/1suD221YejD_cHQhJqkA_lA9eyM3Id4dPr3Grjf3-wQk/edit#gid=0).
 - Ask former TechCord to make your admin of the Github Organisation.
 - Get all the private Gymkhana repositories transferred from the former TechCord.
 
