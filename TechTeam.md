@@ -19,10 +19,13 @@ NOTE: As we move forward and create new projects, this document should be update
 The Tech-Team should be formed via the below process by the present Technology Coordinator for his tenure. The previous members of the team can voluntarily contribute. They MUST get added to Alumni team of the organisation on Github.
 
 - A form should be circulated a fortnight before end of the summer breaks to get in entries. An example form for the same is [here](https://shivamkumarjha.typeform.com/to/deomWG).
-- Interviews should be conducted within the first 15 days of institute reopening after selection on the basis of form responses.
+- Interviews should be conducted within the first 15 days of institute reopening after selection on the basis of form responses. All students whose CVs (and responses) are fit for the team shall be invited.
+- From the interview, at max 10 members (preferable lesser) should be chosen. This number can be stretched or squeezed at the discretion of the present Tech Coordinator.
 - Results should be published via the GymKhana page (and also mail to be sent to new members) within a week of the interviews.
 - The team should be added to the GymKhana Organisation on Github in the team "Entrants" and later on pushed to a team with more rights.
 - The new members should be added to the organisation's slack workspace and they are expected to be active in the same.
+
+NOTE: The selected members should have at least one year of experience of staying in IIT Kharagpur at the time of joining the team.
 
 ## Organisation
 
@@ -61,3 +64,7 @@ Below are the current decided guidelines we must follow:
 - On raising issues: https://wiredcraft.com/blog/how-we-write-our-github-issues/
 - Each member shall keep openness towards learning from each other (irrespective of junior/senior).
 - There should be mutual respect for each other and same shall be presented in PR reviews, comments and all other interactions.
+
+<!-- ## First Run
+
+The Tech-Team was founded by Shivam Kumar Jha (@thealphadollar) in the academic year 2019-2020 for the formalisation of the technical aspect of GymKhana and a rapid growth in the technical field which the institute was lacking compared to sister IITs. -->
