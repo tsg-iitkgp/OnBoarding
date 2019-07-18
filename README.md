@@ -10,7 +10,7 @@ Technology Coordinator is a nominated post in the Technology Students' Gymkhana,
 
 The TechCord is also encouraged to have his own ideas and implement them as and when necessary and deemed appropriate after a discussion with Vice President and other associated office bearers.
 
-### How is TechCord selected?
+### How is TechCord selected
 
 The process for the nomination of Technology Coordinator begins after the election of new Vice President. Below are the steps for the process:
 
@@ -20,6 +20,8 @@ The process for the nomination of Technology Coordinator begins after the electi
 ```
 
 ### Selection of Assisstant TechCords
+
+NOTE: This section is outdated and Tech-Team has replaced technical coordinators.
 
 The nominated person is also responsible for the nomination of Assistant Technology Coordinators. The number of bearers can be decided depending upon the planned amount of work; generally, it is 2.
 
@@ -44,7 +46,8 @@ TechCord is solely responsible for the maintenance of the following accounts:
 ```text
 Github Organisation: Gymkhana IIT KGP
 Gmail: tech.tsgiitkgp@gmail.com
-Server: Gymkhana
+Server: gymkhana
+Wordpress: gymkhana
 ```
 
 Follow the below procedure to get all the accounts:
@@ -65,6 +68,14 @@ Below are some of the etiquettes established and are recommended to be followed:
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
 - [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; **use last year's mail** as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
 - Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with form Technology Coordinator.
+
+### Gymkhana Website
+
+As the Technical Coordinator, one needs to maintain and update the GymKhana website. The instructions are provided in the website repository. Below are few actions which need to be taken every year:
+
+- Update GymKhana website with new position holders.
+- Update socities page with any new information present.
+- Update the email ID present in wordpress contact forms.
 
 ## CONTACT
 
