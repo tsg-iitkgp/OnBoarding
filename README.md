@@ -67,7 +67,8 @@ Below are some of the etiquettes established and are recommended to be followed:
 - A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
 - [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; **use last year's mail** as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
-- Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with form Technology Coordinator.
+- Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with former Technology Coordinator.
+- Events to be managed are present in the folder events. These should either be conducted every academic year or marked with "[STALE]" if considered outdated or not to be done. A future coordinator may decide to restart them with discussion after former TechCord.
 
 ### Gymkhana Website
 
@@ -87,4 +88,9 @@ For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.co
 
 *Name:* **Shivam Kumar Jha**<br>
 *Email:* **shivam.cs.iit.kgp@gmail.com**<br>
-*Phone:* **7830380698**
+*Phone:* **+91-7830380698**
+
+#### Past Technology Coordinators
+
+*Name:* **Dibya Prakash Das** (2018-2019)
+*Name:* **Nishchal Kutarekar** (2017-2018)
