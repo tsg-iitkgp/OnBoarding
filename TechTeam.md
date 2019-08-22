@@ -45,7 +45,7 @@ NOTE: Though we do not have year-wise hierarchy, it is expected from all members
 The organisation encourages members to take up initiatives, come up with new ideas, brainstorm on them with the team and then lead the project.
 
 - Member who comes up with the idea shall be the maintainer of the same and will have say in how everything moves forward if there is no dispute with the members.
-- He can ask other team members to work with him but this should be on the discretion and interest of the members unless the project is compulsory (for which Technical Coordinator shall decide team).
+- The maintainer (or creator of the idea) can ask other team members to work with him but this should be on the discretion and interest of the members unless the project is compulsory (for which Technical Coordinator shall decide team).
 
 NOTE: If the project is considered beneficial to the Institute, funds and resources shall be managed by the Gymkhana (subject to approval from VP and Administraion).
 
