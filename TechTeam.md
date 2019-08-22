@@ -11,6 +11,7 @@ The responsibilities of the organisation are as follows along with current maint
 - Maintaining Institute Android Platform.
 - Perform and execute technical ties with other socities.
 - Manage and update Gymkhana website.
+- Some members will be alloted to maintaining the opensource and server assets of MetaKGP along with MFTP, MFQP and more.
 
 NOTE: As we move forward and create new projects, this document should be updated.
 
@@ -18,9 +19,9 @@ NOTE: As we move forward and create new projects, this document should be update
 
 The Tech-Team should be formed via the below process by the present Technology Coordinator for his tenure. The previous members of the team can voluntarily contribute. They MUST get added to Alumni team of the organisation on Github.
 
-- A form should be circulated a fortnight before end of the summer breaks to get in entries. An example form for the same is [here](https://shivamkumarjha.typeform.com/to/deomWG).
+- A form should be circulated a fortnight before end of the summer breaks to get in entries. An example form for the same is [here](https://shivamkumarjha.typeform.com/to/deomWG). Sufficient time should be given to candidates in order to prepare CV in case they don't have one yet.
 - Interviews should be conducted within the first 15 days of institute reopening after selection on the basis of form responses. All students whose CVs (and responses) are fit for the team shall be invited.
-- From the interview, at max 10 members (preferable lesser) should be chosen. This number can be stretched or squeezed at the discretion of the present Tech Coordinator.
+- From the interview, at max 10 members (preferable lesser) should be chosen. This number can be stretched or squeezed at the discretion of the present (and former) Tech Coordinator.
 - Results should be published via the GymKhana page (and also mail to be sent to new members) within a week of the interviews.
 - The team should be added to the GymKhana Organisation on Github in the team "Entrants" and later on pushed to a team with more rights.
 - The new members should be added to the organisation's slack workspace and they are expected to be active in the same.
@@ -64,7 +65,18 @@ Below are the current decided guidelines we must follow:
 - On raising issues: https://wiredcraft.com/blog/how-we-write-our-github-issues/
 - Each member shall keep openness towards learning from each other (irrespective of junior/senior).
 - There should be mutual respect for each other and same shall be presented in PR reviews, comments and all other interactions.
+- No member shall be made to feel belittle on the basis of his her knowledge or mistakes.
 
-<!-- ## First Run
+### Removal Of Members
 
-The Tech-Team was founded by Shivam Kumar Jha (@thealphadollar) in the academic year 2019-2020 for the formalisation of the technical aspect of GymKhana and a rapid growth in the technical field which the institute was lacking compared to sister IITs. -->
+It is harmful for any organisation to not tolerate slowing down and disruption of functioning due to mishaps and irresponsibility of a member. TechTeam Gymkhana has high responsibility and hence no inappropriate actions shall go unattended.
+
+All such actions shall be directly handled by present Technology Coordinator (with consultation with former Technology Coordinator) and may lead to dismissal of the member from his position of responsibility. The Technology Coordinator may choose to hold nomination for the vacancy created. In more severe cases (such as unethical distribution of credentials, hampering the provided server etc.) GymKhana Vice President shall be involved and more severe action may be taken.
+
+In any case, decision of Technology Coordinator shall be final and he must present valid reasons for the same. Irrational abuse of power can be reported to Vice President or the former Technology Coordinator.
+
+## How It Came Into Existence?
+
+The Tech-Team was founded by Shivam Kumar Jha (@thealphadollar) (then Technology Coordinator) in the academic year 2019-2020 for the formalisation of the technical aspect of GymKhana and a rapid growth in the technical field which the institute was lacking compared to sister IITs. It has came out as a lack of maintainers for @Metakgp which has very crucial tools for the campus life.
+
+This endeavor would not have been possible without the cooperation and help from the then Vice President, Niraj Ninaad Lohakare and PR Chair, Akshat Jain.
