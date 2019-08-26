@@ -21,7 +21,7 @@ The process for the nomination of Technology Coordinator begins after the electi
 
 ### Selection of Assisstant TechCords
 
-NOTE: This section is outdated and Tech-Team has replaced technical coordinators.
+NOTE: This section is outdated and Tech-Team has replaced assisstant technical coordinators.
 
 The nominated person is also responsible for the nomination of Assistant Technology Coordinators. The number of bearers can be decided depending upon the planned amount of work; generally, it is 2.
 
@@ -69,6 +69,7 @@ Below are some of the etiquettes established and are recommended to be followed:
 - [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; **use last year's mail** as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
 - Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with former Technology Coordinator.
 - Events to be managed are present in the folder events. These should either be conducted every academic year or marked with "[STALE]" if considered outdated or not to be done. A future coordinator may decide to restart them with discussion with former TechCord.
+- As the new Gymkhana editors are announced, an account for each should be made and credentials should be given. Along with the same, last year user accounts should be removed and their contribution should be attributed to Technology Coordinator account.
 - A portal for assimilation programme is present at the [Official GymK Website](http://www.gymkhana.iitkgp.ac.in/blog/index.php/grievance-portal-assimilation-programme-2019/). The same needs to be updated for the new assimilation programme with updating the form and adding new addresses for recipients.
 
 ### Gymkhana Website
