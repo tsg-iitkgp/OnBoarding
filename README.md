@@ -94,5 +94,5 @@ For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.co
 
 #### Past Technology Coordinators
 
-*Name:* **Dibya Prakash Das** (2018-2019)
-*Name:* **Nishchal Kutarekar** (2017-2018)
+**Dibya Prakash Das** (2018-2019)<br/>
+**Nishchal Kutarekar** (2017-2018)
