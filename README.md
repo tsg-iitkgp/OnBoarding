@@ -71,6 +71,10 @@ Below are some of the etiquettes established and are recommended to be followed:
 - Events to be managed are present in the folder events. These should either be conducted every academic year or marked with "[STALE]" if considered outdated or not to be done. A future coordinator may decide to restart them with discussion with former TechCord.
 - As the new Gymkhana editors are announced, an account for each should be made and credentials should be given. Along with the same, last year user accounts should be removed and their contribution should be attributed to Technology Coordinator account.
 - A portal for assimilation programme is present at the [Official GymK Website](http://www.gymkhana.iitkgp.ac.in/blog/index.php/grievance-portal-assimilation-programme-2019/). The same needs to be updated for the new assimilation programme with updating the form and adding new addresses for recipients.
+- A project timeline should be created by the Technology Coordinator at the beginning of the tenure and in the same, he should circulate a document asking all of the GymKhana position holders to suggest updates for the website.
+
+
+NOTE: It is advisable to use the existing Google Sheets for all repeating processes by creating a new sheet in the spreadsheet.
 
 ### Gymkhana Website
 

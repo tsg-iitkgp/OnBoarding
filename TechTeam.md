@@ -26,6 +26,7 @@ The Tech-Team should be formed via the below process by the present Technology C
 - The team should be added to the GymKhana Organisation on Github in the team "Entrants" and later on pushed to a team with more rights.
 - The new members should be added to the organisation's slack workspace and they are expected to be active in the same.
 - The new members should add their detail in the "Tech Team Contacts" google sheet after the Tech-Coordinator has created a new sheet (in the same spreadsheet available with the official tech coordinator google account) for the corresponding academic year.
+- Post addition of the details, the team should be asked about their skill set and interests and accordingly distributed to the projects planned for the tenure of the Tech Coordinator. A sheet for the same purpose is available in the associated Google account.
 
 NOTE: The selected members should have at least one year of experience of staying in IIT Kharagpur at the time of joining the team.
 
