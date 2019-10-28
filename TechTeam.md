@@ -42,6 +42,17 @@ Below is the structure of the group.
 
 NOTE: Though we do not have year-wise hierarchy, it is expected from all members to treat their juniors and seniors with love and respect.
 
+### How To Manage Work?
+
+The team has to manage a lot of work and the best way to do the same is via GitHub issues. The current method of assigning work is as follows and it works pretty well.
+
+- BiWeekly (or Weekly) meeting should be held with the team to check progress on the assigned issues, help the team, give learning tasks etc.
+- Issues are to be assigned on GitHub based on the current work: the issues need to be small and independent enough that each team member can do it independently or with at max two-three members together.
+- The PRs are to be reviewed and then new issues are to be assigned. Issues should have the team members as assignees as well as they should be detailed enough to not create confusion.
+- The TechCoordinator as well as the erstwhile team seniors should be available to help the assignees over call or other forms of communication. Meeting for all tasks is very tedious and cannot be followed all the time, and hence it'll get avoided in the long run.
+
+The above is a rough method and should be followed with enough flexibility to make the team function well.
+
 ## Personal Projects And Lead
 
 The organisation encourages members to take up initiatives, come up with new ideas, brainstorm on them with the team and then lead the project.
