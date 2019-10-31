@@ -41,22 +41,20 @@ Formation of Gymkhana Tech Team is also the responsibility of Technology Coordin
 
 ### Associated Accounts
 
-TechCord is solely responsible for the maintenance of the following accounts:
-
-```text
-Github Organisation: Gymkhana IIT KGP
-Gmail: tech.tsgiitkgp@gmail.com
-Server: gymkhana
-Wordpress: gymkhana
-```
+TechCord is solely responsible for the maintenance of the associated accounts available in the tech-coord credentials sheet.
 
 Follow the below procedure to get all the accounts:
 
-- Request edit access to the [credentials' sheet](https://docs.google.com/spreadsheets/d/1suD221YejD_cHQhJqkA_lA9eyM3Id4dPr3Grjf3-wQk/edit#gid=0).
+- Request edit access to the credentials' sheet (available with the previous tech coordinator).
+- Apart from the accounts mentioned in the sheet, we do not have any other associated accounts.
 - Ask former TechCord to make your admin of the Github Organisation.
 - Get all the private Gymkhana repositories transferred from the former TechCord.
 
+NOTE: As of now, we **do not** have any private repositories for GymKhana.
+
 The point of contact inside GymKhana and CIC is [Alokes Chattopadhyay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZamZU&depts_name=CC), Senior System Analyst, Computer & Informatics Centre.
+
+Addition of any new account on any platform should be added back to the sheet.
 
 ### Etiquettes
 
