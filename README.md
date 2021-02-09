@@ -37,11 +37,11 @@ Once nominated, the new TechCord should do the following:
 
 4. Request edit access to the credentials sheet. DO NOT give edit access to anybody else. If needed, make read-only copies, or preferably share only the credentials needed.
 
-5. Get your SSH key added to the AWS server running Ghost for the GymK blog.
+5. Get your SSH key added to the AWS server running [Ghost](https://ghost.org/docs/introduction/) for the [Gymkhana blog](https://tsgblog.iitkgp.ac.in/), [Gymkhana Backend](https://github.com/tsg-iitkgp/tsg-backend), [Gymkhana Website](https://github.com/tsg-iitkgp/tsg-site).
 
-6. Get your SSH key added to the Gymkhana server, and ensure you have access and permissions are configured properly for the `/home/gymkhana` directory.
+6. Get your SSH key added to the Gymkhana server available in the board room of Gymkhana.
 
-7. Get access to the `tech.tsgiitkgp@gmail.com` account, and update the phone number to the present tech coordinator.
+7. Get access to the `tech.tsgiitkgp@gmail.com` account, and update the phone number and email signature to the present tech coordinator.
 
 8. Update the contacts page with the new office bearer info. We also need to update the archival data, this is done on Google Sheets presently. Get access to the formatted and compiled datasheets.
 
@@ -49,7 +49,7 @@ NOTE: **It is very important to read all the points mentioned in the etiquettes'
 
 The formation of the Gymkhana Tech Team is also the responsibility of the Technology Coordinator.
 
-The point of contact inside Gymkhana and CIC is Alokes Chattopadhyay, Senior System Analyst, Computer & Informatics Centre. To get any package installed or updated on the Gymkhana server, write a mail with the EXACT command to be run. The server is running `Ubuntu 14.04`, with kernel version 3.13, so find packages that will work on it
+The point of contact inside Gymkhana and CIC is Alokes Chattopadhyay, Senior System Analyst, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - iitkgp.ac.in. You can take his assitance in case of any network or IP related issue with the server. The server is running `Ubuntu 20.04`, with kernel version 5.11.0, so find packages that will work on it.
 
 Addition of any new account on any platform should be added back to the sheet.
 
@@ -58,7 +58,7 @@ Addition of any new account on any platform should be added back to the sheet.
 Below are some of the etiquettes established and are recommended to be followed:
 
 - All code (unless confidential) should be made available under Gymkhana organization on Github.
-- All minutes of the meetings should be shared with the Vice President, and the UG Representative from the aforementioned official Email ID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
+- All **minutes of the meetings should be shared** with the Vice President, and the UG Representative from the aforementioned official Email ID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "TechTeam: Minutes Of The Meeting". All minutes of the meetings of the tenure **should be documented and uploaded as pdf** in the drive folder named "Minutes Of The Meetings". The name of the document should be in the format "< Tenure Start Year > - < Tenure End Year >.pdf". **Follow the exact template** as present in the document named Template present in the drive folder.
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
 - [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; **use last year's mail** as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
 - Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with former Technology Coordinator.
@@ -70,7 +70,7 @@ NOTE: It is advisable to use the existing Google Sheets for all repeating proces
 
 ### Gymkhana Website
 
-Check `TechTeam.md`
+Check [TechTeam.md](TechTeam.md)
 
 ## CONTACT
 

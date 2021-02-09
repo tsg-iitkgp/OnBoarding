@@ -10,7 +10,9 @@ The responsibilities of the organisation are as follows along with current maint
 
 - Maintaining the Gymkhana Blog Server
 
-- Perform and execute technical ties with other socities.
+- Maintaining the Gymkhana Digital Inventory System
+
+- Perform and execute technical ties with other societies.
 
 - Manage and update archival data, and results of various events, such as InterIIT and GC
 
@@ -45,7 +47,7 @@ Below is the structure of the group.
 - The group should have a flat hierarchy with Technology Coordinator having final say in terms of dispute.
 - All members in the organisation to be given the position of "Tech Team Member" throughout their tenure, irrespective of year or study.
 - Members who initiate a project or unanimously are decided to maintain a project shall be convened as the maintainer for the project for their tenure (but his role in the organisation does not change).
-- Maintainers have final say (alongside Technical Coordinator) in their respective projects and are responsible for the smooth functionting and growth of the same.
+- Maintainers have final say (alongside Technology Coordinator) in their respective projects and are responsible for the smooth functionting and growth of the same.
 
 NOTE: Though we do not have year-wise hierarchy, it is expected from all members to treat their juniors and seniors with love and respect.
 
@@ -66,7 +68,7 @@ The above is a rough method and should be followed with enough flexibility to ma
 The organisation encourages members to take up initiatives, come up with new ideas, brainstorm on them with the team and then lead the project.
 
 - Member who comes up with the idea shall be the maintainer of the same and will have say in how everything moves forward if there is no dispute with the members.
-- The maintainer (or creator of the idea) can ask other team members to work with him but this should be on the discretion and interest of the members unless the project is compulsory (for which Technical Coordinator shall decide team).
+- The maintainer (or creator of the idea) can ask other team members to work with him but this should be on the discretion and interest of the members unless the project is compulsory (for which Technology Coordinator shall decide team).
 
 NOTE: If the project is considered beneficial to the Institute, funds and resources shall be managed by the Gymkhana (subject to approval from VP and Administraion).
 
