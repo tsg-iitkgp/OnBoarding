@@ -19,40 +19,40 @@ The process for the nomination of Technology Coordinator begins after the electi
 2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP, and the current TechCord.
 ```
 
-### Selection of Assisstant TechCords
 
-NOTE: This section is outdated and Tech-Team has replaced assisstant technical coordinators.
+### Tech Team
 
-The nominated person is also responsible for the nomination of Assistant Technology Coordinators. The number of bearers can be decided depending upon the planned amount of work; generally, it is 2.
+The Gymkhana tech team was introduced by Shivam Kumar Jha (Technology Coordinator 2019-20), to streamline all efforts, and maintain projects, along with coming up with new ideas for the betterment of the institute.
 
-The assistant TechCords will be responsible for assisting TechCord in his ideas and also provide ideas for the technological betterment of the institute.
-
-TechCord and Assistant TechCords should work as a single body to gather, implement and execute ideas.
+[More details on the tech team](TechTeam.md)
 
 ### What Once Nominated?
 
-Once nominated, the new TechCord should immediately go through the README of this repository and ask the previous TechCord to grant him permission to view the credentials' sheet. 
+Once nominated, the new TechCord should do the following:
+
+1. Go through this repository to understand the role and responsibilities better
+
+2. Have a discussion with the previous tech coordinator, about the state of the projects they were working on, and the TODOs from their tenure. It is important to gather their experience, and learn from their mistakes
+
+3. Get added to the GitHub org as an admin
+
+4. Request edit access to the credentials sheet. DO NOT give edit access to anybody else. If needed, make read-only copies, or preferrably share only the credentials needed
+
+5. Get your SSH key added to the AWS server running Ghost, for the GymK blog
+
+6. Get your SSH key added to the Gymkhana server, and ensure you have access and permissions are configured properly for the `/home/gymkhana` directory
+
+7. Get access to the `tech.tsgiitkgp@gmail.com` account, and update phone number to the present tech coordinator
+
+8. Update the contacts page with the new office bearer info. We also need to update the archival data, this is done on Google Sheets presently. Get access to the formatted and compiled data sheets
+
+    
 
 NOTE: **It is very important to read all the points mentioned in the etiquettes' section and follow (or amend) them.**
 
-Ethically, the newly nominated person should also gather experience of the former TechCord and Assistant TechCords and learn from their mistakes and experience and take note of the projects they have been working on.
+Formation of Gymkhana Tech Team is also the responsibility of Technology Coordinator
 
-Formation of Gymkhana Tech Team is also the responsibility of Technology Coordinator and more details are available in the same repository inside the file `TechTeam.md`
-
-### Associated Accounts
-
-TechCord is solely responsible for the maintenance of the associated accounts available in the tech-coord credentials sheet.
-
-Follow the below procedure to get all the accounts:
-
-- Request edit access to the credentials' sheet (available with the previous tech coordinator).
-- Apart from the accounts mentioned in the sheet, we do not have any other associated accounts.
-- Ask former TechCord to make your admin of the Github Organisation.
-- Get all the private Gymkhana repositories transferred from the former TechCord.
-
-NOTE: As of now, we **do not** have any private repositories for GymKhana.
-
-The point of contact inside GymKhana and CIC is [Alokes Chattopadhyay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZamZU&depts_name=CC), Senior System Analyst, Computer & Informatics Centre.
+The point of contact inside Gymkhana and CIC is [Alokes Chattopadhyay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZamZU&depts_name=CC), Senior System Analyst, Computer & Informatics Centre. In order to get any package installed or updated on the Gymkhana server, write a mail with the EXACT command to be run. The server is running `Ubuntu 14.04`, with kernel version 3.13, so find packages that will work on it
 
 Addition of any new account on any platform should be added back to the sheet.
 
@@ -61,26 +61,20 @@ Addition of any new account on any platform should be added back to the sheet.
 Below are some of the etiquettes established and are recommended to be followed:
 
 - All code (unless confidential) should be made available under Gymkhana organization on Github.
-- All minutes of the meetings should be shared with the Vice President from the aforementioned official EmailID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
-- A form should be posted right after the nomination or after a week of end-sems getting over (whichever is later), to gain feedback and ideas for the next session.
+- All minutes of the meetings should be shared with the Vice President, and UG Representative from the aforementioned official Email ID. There should be a single thread for minutes of the meeting of a particular topic and should begin with "Minutes Of The Meeting".
 - **Add new ideas and the incomplete work to the issues tab** of this repository so that they can be passed on easily.
 - [Get Society Wiki Page](https://wiki.metakgp.org/w/Category:Societies_and_clubs) updated by the respective societies; **use last year's mail** as the template (available in official Gmail account with subject "Update Your Organisation's MetaKGP Wiki Page"). Take email address of all previous governors of all societies from the past PR chair and send them a mail to update the wiki page.
 - Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with former Technology Coordinator.
 - Events to be managed are present in the folder events. These should either be conducted every academic year or marked with "[STALE]" if considered outdated or not to be done. A future coordinator may decide to restart them with discussion with former TechCord.
-- As the new Gymkhana editors are announced, an account for each should be made and credentials should be given. Along with the same, last year user accounts should be removed and their contribution should be attributed to Technology Coordinator account.
-- A portal for assimilation programme is present at the [Official GymK Website](http://www.gymkhana.iitkgp.ac.in/blog/index.php/grievance-portal-assimilation-programme-2019/). The same needs to be updated for the new assimilation programme with updating the form and adding new addresses for recipients.
-- A project timeline should be created by the Technology Coordinator at the beginning of the tenure and in the same, he should circulate a document asking all of the GymKhana position holders to suggest updates for the website.
+- As the new Gymkhana editors are announced, an account for each should be made and credentials should be given. Along with the same, last year user accounts should be removed and their contribution should be attributed to Technology Coordinator account. Share docs on the Ghost platform, and make sure they're comfortable with it
+- A project timeline should be created by the Technology Coordinator at the beginning of the tenure and in the same, he should circulate a document asking all of the Gymkhana position holders to suggest updates for the website
 
 
 NOTE: It is advisable to use the existing Google Sheets for all repeating processes by creating a new sheet in the spreadsheet.
 
 ### Gymkhana Website
 
-As the Technical Coordinator, one needs to maintain and update the GymKhana website. The instructions are provided in the website repository. Below are few actions which need to be taken every year:
-
-- Update GymKhana website with new position holders.
-- Update socities page with any new information present.
-- Update the email ID present in wordpress contact forms.
+Check `TechTeam.md`
 
 ## CONTACT
 
@@ -90,11 +84,10 @@ For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.co
 
 #### Present Technology Coordinator
 
-*Name:* **Shivam Kumar Jha**<br>
-*Email:* **shivam.cs.iit.kgp@gmail.com**<br>
-*Phone:* **+91-7830380698**
+*Name:* **Mukul Mehta**<br>
+*Email:* **hello@mukul-mehta.in**<br>
+*Phone:* **+91-7678381645**
 
 #### Past Technology Coordinators
 
-**Dibya Prakash Das** (2018-2019)<br/>
-**Nishchal Kutarekar** (2017-2018)
+**Shivam Kumar Jha** (2019-2020)<br/>**Dibya Prakash Das** (2018-2019)<br/>**Nishchal Kutarekar** (2017-2018)
