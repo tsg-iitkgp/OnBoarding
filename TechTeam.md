@@ -1,6 +1,6 @@
 # Tech-Team, Technology Students' Gymkhana
 
-Tech-Team is the group that will be maintaing all the existing technical projects and brainstorming on new ideas and building applications and software for the betterment of the institute. Ideally, the tech-team consists of 4-6 members, in their 2nd year but neither is a hard requirement
+Tech-Team is the group that will be maintaining all the existing technical projects and brainstorming on new ideas and building applications and software for the betterment of the institute. Ideally, the tech-team consists of 4-6 members, in their 2nd year but neither is a hard requirement.
 
 ## Responsibilities
 
@@ -14,19 +14,17 @@ The responsibilities of the organisation are as follows along with current maint
 
 - Manage and update archival data, and results of various events, such as InterIIT and GC
 
-    
-
-NOTE: As we move forward and create new projects, this document should be updated
+NOTE: As we move forward and create new projects, this document should be updated.
 
 ## Formation
 
 The Tech-Team should be formed via the below process by the present Technology Coordinator for his tenure. The previous members of the team can voluntarily contribute. They MUST get added to Alumni team of the organisation on Github.
 
-- A form should be circulated after the nomination of the tech coordinator. An example form for the same is [here](https://forms.gle/9Du4xXSurx6C7dMz8). Ask the PR Chair to create a FB post, with content similar to the one in `Posts/TechTeamFB.md`. Sufficient time should be given to candidates in order to prepare CV in case they don't have one yet.
+- A form should be circulated after the nomination of the tech coordinator. An example form for the same is [here](https://forms.gle/9Du4xXSurx6C7dMz8). Ask the PR Chair to create a FB post, with content similar to the one in `Posts/TechTeamFB.md`. Sufficient time should be given to candidates in order to prepare a CV in case they don't have one yet.
 
-- After scrutinizing the form responses, interviews should be conducted in 15 days following the form submission
+- After scrutinizing the form responses, interviews should be conducted in 15 days following the form submission.
 
-- From the interview, 4 to 6 should be chosen. This number can be stretched or squeezed at the discretion of the present (and former) Tech Coordinator, and the goals in mind for their tenure
+- From the interview, 4 to 6 should be chosen. This number can be stretched or squeezed at the discretion of the present (and former) Tech Coordinator, and the goals in mind for their tenure.
 
 - Results should be published via the Gymkhana page (and also mail to be sent to new members) within a week of the interviews.
 
@@ -36,9 +34,7 @@ The Tech-Team should be formed via the below process by the present Technology C
 
 - The new members should add their detail in the "Tech Team Contacts" google sheet after the Tech-Coordinator has created a new sheet (in the same spreadsheet available with the official tech coordinator google account) for the corresponding academic year.
 
-- Post addition of the details, have an introductory meeting with the team to understand their technical skills and goals better. Ask for ideas, and document them in a google sheet in the tech cord email account
-
-    
+- Post the addition of the details, have an introductory meeting with the team to understand their technical skills and goals better. Ask for ideas, and document them in a google sheet in the tech cord email account
 
 NOTE: The selected members should have at least one year of experience of staying in IIT Kharagpur at the time of joining the team.
 
@@ -47,7 +43,7 @@ NOTE: The selected members should have at least one year of experience of stayin
 Below is the structure of the group.
 
 - The group should have a flat hierarchy with Technology Coordinator having final say in terms of dispute.
-- All members in the organisation to be given the position of "Tech Team Member" throughout their tenure, irrespective of year or study
+- All members in the organisation to be given the position of "Tech Team Member" throughout their tenure, irrespective of year or study.
 - Members who initiate a project or unanimously are decided to maintain a project shall be convened as the maintainer for the project for their tenure (but his role in the organisation does not change).
 - Maintainers have final say (alongside Technical Coordinator) in their respective projects and are responsible for the smooth functionting and growth of the same.
 
@@ -60,8 +56,8 @@ The team has to manage a lot of work and the best way to do the same is via GitH
 - Weekly meeting should be held with the team to check progress on the assigned issues, help the team, give learning tasks etc.
 - Issues are to be assigned on GitHub based on the current work: the issues need to be small and independent enough that each team member can do it independently or with at max two-three members together.
 - The PRs are to be reviewed and then new issues are to be assigned. Issues should have the team members as assignees as well as they should be detailed enough to not create confusion.
-- The Tech Coordinator as well as the erstwhile team seniors should be available to help the assignees over call or other forms of communication. Meeting for all tasks is very tedious and cannot be followed all the time, and hence it'll get avoided in the long run.
-- It is encouraged to have 1:1s with each team member to discus their role, and updates on tasks, progress and what work they want to pick up
+- The Tech Coordinator as well as the erstwhile team seniors should be available to help the assignees over a call or other forms of communication. Meeting for all tasks is very tedious and cannot be followed all the time, and hence it'll get avoided in the long run.
+- It is encouraged to have 1:1s with each team member to discuss their role, and updates on tasks, progress and what work they want to pick up.
 
 The above is a rough method and should be followed with enough flexibility to make the team function well.
 
