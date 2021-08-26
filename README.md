@@ -49,7 +49,7 @@ NOTE: **It is very important to read all the points mentioned in the etiquettes'
 
 The formation of the Gymkhana Tech Team is also the responsibility of the Technology Coordinator.
 
-The point of contact inside Gymkhana and CIC is [Alokes Chattopadhyay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZamZU&depts_name=CC), Senior System Analyst, Computer & Informatics Centre. To get any package installed or updated on the Gymkhana server, write a mail with the EXACT command to be run. The server is running `Ubuntu 14.04`, with kernel version 3.13, so find packages that will work on it
+The point of contact inside Gymkhana and CIC is Alokes Chattopadhyay, Senior System Analyst, Computer & Informatics Centre. To get any package installed or updated on the Gymkhana server, write a mail with the EXACT command to be run. The server is running `Ubuntu 14.04`, with kernel version 3.13, so find packages that will work on it
 
 Addition of any new account on any platform should be added back to the sheet.
 
@@ -80,10 +80,10 @@ For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.co
 
 #### Present Technology Coordinator
 
-_Name:_ **Mukul Mehta**<br>
-_Email:_ **hello@mukul-mehta.in**<br>
-_Phone:_ **+91-7678381645**
+_Name:_ **Praneeth Reddy Kolanu**<br>
+_Email:_ **praneeth.kolanu.iitkgp@gmail.com**<br>
+_Phone:_ **+91-7013160459**
 
 #### Past Technology Coordinators
 
-**Shivam Kumar Jha** (2019-2020)<br/>**Dibya Prakash Das** (2018-2019)<br/>**Nishchal Kutarekar** (2017-2018)
+**Mukul Mehta** (2020-2021)<br/>**Shivam Kumar Jha** (2019-2020)<br/>**Dibya Prakash Das** (2018-2019)<br/>**Nishchal Kutarekar** (2017-2018)
