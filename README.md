@@ -31,7 +31,7 @@ Once nominated, the new TechCord should do the following:
 
 1. Go through this repository to understand the role and responsibilities better.
 
-2. Have a discussion with the previous tech coordinator, about the state of the projects they were working on, and the TODOs from their tenure. It is important to gather their experience and learn from their mistakes.
+2. Have a discussion with the previous tech coordinator, about the state of the projects they were working on, and the [TODOs](TODOs.md) from their tenure. It is important to gather their experience and learn from their mistakes.
 
 3. Get added to the GitHub org as an admin.
 
@@ -41,7 +41,7 @@ Once nominated, the new TechCord should do the following:
 
 6. Get your SSH key added to the Gymkhana server available in the board room of Gymkhana.
 
-7. Get access to the `tech.tsgiitkgp@gmail.com` account, and update the phone number and email signature to the present tech coordinator.
+7. Get access to the `tech.tsgiitkgp@gmail.com` and `tech.coordi@iitkgp.ac.in`, and update the phone number and email signature to the present tech coordinator.
 
 8. Update the contacts page with the new office bearer info. We also need to update the archival data, this is done on Google Sheets presently. Get access to the formatted and compiled datasheets.
 
@@ -49,7 +49,7 @@ NOTE: **It is very important to read all the points mentioned in the etiquettes'
 
 The formation of the Gymkhana Tech Team is also the responsibility of the Technology Coordinator.
 
-The point of contact inside Gymkhana and CIC is Alokes Chattopadhyay, Senior System Analyst, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - iitkgp.ac.in. You can take his assitance in case of any network or IP related issue with the server. The server is running `Ubuntu 20.04`, with kernel version 5.11.0, so find packages that will work on it.
+The point of contact inside Gymkhana and CIC is Alokes Chattopadhyay, Deputy Chief System Manager, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - iitkgp.ac.in. You can take his assitance in case of any network or IP related issue with the server. The server is running `Ubuntu 20.04`, with kernel version 5.11.0, so find packages that will work on it.
 
 Addition of any new account on any platform should be added back to the sheet.
 
@@ -76,7 +76,7 @@ Check [TechTeam.md](TechTeam.md)
 
 ### General
 
-For any ideas, suggestions or queries, please mail us at tech.tsgiitkgp@gmail.com
+For any ideas, suggestions or queries, please mail us at tech.coordi@iitkgp.ac.in
 
 #### Present Technology Coordinator
 
