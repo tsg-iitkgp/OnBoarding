@@ -41,7 +41,8 @@ This site contains all the public information of gymkhana and targets the genera
 
 ### Maintenance 
 
-This is site is built with React.js. The data of contacts, events, results, etc needs to be regularly updated. Based on the requirement, new pages and sections need to be developed. The data is static for now. It has to be fetched from the [backend](#gymkhana-backend) api after developing the dashboard and populating the database. For more details, visit: [tsg-iitkgp/web-frontend](https://github.com/tsg-iitkgp/web-frontend).
+This is site is built with React.js. The data of contacts, events, results, etc needs to be regularly updated. Based on the requirement, new pages and sections need to be developed. The data is static for now. It has to be fetched from the [backend](#gymkhana-backend) api after developing the dashboard and populating the database. For more details, visit: [tsg-iitkgp/web-frontend](https://github.com/tsg-iitkgp/web-frontend). <br/>
+Link to the deployed site: [https://gymkhana.iitkgp.ac.in](https://gymkhana.iitkgp.ac.in)
 
 <a id="gw-features"></a>
 
@@ -70,7 +71,7 @@ This page contains the current and past events of gymkhana. An events calendar c
 
 #### Gymkhana Noticeboard
 
-This feature has all the recent and active notices of Gymkhana.
+This would contain all the recent and active notices of Gymkhana.
 
 #### Committees Pages
 
@@ -79,6 +80,30 @@ These are custom pages for each committee which would contain all the informatio
 #### Office Bearers Contacts
 
 Data of the current and past office bearers of gymkhana will be displayed here. This can be improvised more to show images and contacts of past office bearers as well.
+
+<a id="tsgblogs"></a>
+
+## Gymkhana Blogs Site
+
+<a id="tsgblogs-objective"></a>
+
+### Objective 
+
+This site is meant to display all the blogs published by Technology Students' Gymkhana. 
+
+<a id="tsgblogs-maintenance"></a>
+
+### Maintenance 
+
+This is built with Ghost. Ghost is an open source headless Node.js CMS. Editors would be given access to the dashboard of the site, so that they can themselves post the blogs on the site. To know more about ghost, do visit: [https://ghost.org/docs/](https://ghost.org/docs/). <br/>
+Link to the deployed site: [https://tsgblog.iitkgp.ac.in](https://tsgblog.iitkgp.ac.in)
+
+
+<a id="tsgblogs-existence"></a>
+
+### Existence 
+
+The Blogs Site of Gymkhana was first developed by Mukul Mehta (then Technology Coordinator) in the academic year 2020 - 2021.
 
 
 <a id="students-erp"></a>
