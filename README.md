@@ -31,7 +31,7 @@ Once nominated, the new TechCord should do the following:
 
 1. Go through this repository to understand the role and responsibilities better.
 
-2. Have a discussion with the previous tech coordinator, about the state of the projects they were working on, and the [TODOs](TODOs.md) from their tenure. It is important to gather their experience and learn from their mistakes.
+2. Have a discussion with the previous tech coordinator, about the state of the [projects](APPs.md) they were working on, and the [TODOs](TODOs.md) from their tenure. It is important to gather their experience and learn from their mistakes.
 
 3. Get added to the GitHub org as an admin.
 
