@@ -86,4 +86,8 @@ _Phone:_ **+91-7013160459**
 
 #### Past Technology Coordinators
 
-**Mukul Mehta** (2020-2021)<br/>**Shivam Kumar Jha** (2019-2020)<br/>**Dibya Prakash Das** (2018-2019)<br/>**Nishchal Kutarekar** (2017-2018)
+**Mukul Mehta** (2020-2021)<br/>
+**Shivam Kumar Jha** (2019-2020)<br/>
+**Dibya Prakash Das** (2018-2019)<br/>
+**Nishchal Kutarekar** (2017-2018<br/>
+**Amey Muley** (2015-16)

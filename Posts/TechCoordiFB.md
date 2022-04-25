@@ -12,6 +12,6 @@ Below is the content for the post made for Technology Coordinator 2022 selection
 
 > Deadline: 11:59 PM, 16th of August 2021. 
 
-> For more information regarding the same, contact Praneeth Reddy Kolanu or mail at tech.coordi@iitkgp.ac.in
+> For more information regarding the same, contact Praneeth Reddy Kolanu or mail at tech.coordi@iitkgp.ac.in with the subject line `Query: TechCoordi Selections 2022-2023`
 
 NOTE: Once the deadline of the CV submission is over, send a mail (use last year template) to all the submissions.
