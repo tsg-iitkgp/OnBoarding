@@ -16,7 +16,7 @@ The process for the nomination of Technology Coordinator begins after the electi
 
 ```text
 1. Request for submission of resumes of interested candidates.
-2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP, and the current TechCord.
+2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP, current TechCord and Previous TechCord (any, based on availability and discretion of the current Tech Coordinator).
 ```
 
 ### Tech Team
@@ -89,5 +89,5 @@ _Phone:_ **+91-7013160459**
 **Mukul Mehta** (2020-2021)<br/>
 **Shivam Kumar Jha** (2019-2020)<br/>
 **Dibya Prakash Das** (2018-2019)<br/>
-**Nishchal Kutarekar** (2017-2018<br/>
+**Nishchal Kutarekar** (2017-2018)<br/>
 **Amey Muley** (2015-16)
