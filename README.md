@@ -80,12 +80,13 @@ For any ideas, suggestions or queries, please mail us at tech.coordi@iitkgp.ac.i
 
 #### Present Technology Coordinator
 
-_Name:_ **Praneeth Reddy Kolanu**<br>
-_Email:_ **praneeth.kolanu.iitkgp@gmail.com**<br>
-_Phone:_ **+91-7013160459**
+_Name:_ **Kunal Verma**<br>
+_Email:_ **kunalvrm.iitkgp@gmail.com**<br>
+_Phone:_ **+91-9354817605**
 
 #### Past Technology Coordinators
 
+**Praneeth Reddy Kolanu** (2021-2022)<br/>
 **Mukul Mehta** (2020-2021)<br/>
 **Shivam Kumar Jha** (2019-2020)<br/>
 **Dibya Prakash Das** (2018-2019)<br/>
