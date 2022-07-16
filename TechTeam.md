@@ -20,7 +20,7 @@ NOTE: As we move forward and create new projects, this document should be update
 
 ## Formation
 
-The Tech-Team should be formed via the below process by the present Technology Coordinator for his tenure. The previous members of the team can voluntarily contribute. They MUST get added to Alumni team of the organisation on Github.
+The Tech-Team should be formed via the below process by the present Technology Coordinator for his/her tenure. The previous members of the team can voluntarily contribute. They MUST get added to Alumni team of the organisation on Github.
 
 - A form should be circulated after the nomination of the tech coordinator. An example form for the same is [here](https://forms.gle/9Du4xXSurx6C7dMz8). Ask the PR Chair to create a FB post, with content similar to the one in `Posts/TechTeamFB.md`. Sufficient time should be given to candidates in order to prepare a CV in case they don't have one yet.
 
@@ -46,7 +46,7 @@ Below is the structure of the group.
 
 - The group should have a flat hierarchy with Technology Coordinator having final say in terms of dispute.
 - All members in the organisation to be given the position of "Tech Team Member" throughout their tenure, irrespective of year or study.
-- Members who initiate a project or unanimously are decided to maintain a project shall be convened as the maintainer for the project for their tenure (but his role in the organisation does not change).
+- Members who initiate a project or unanimously are decided to maintain a project shall be convened as the maintainer for the project for their tenure (but his/her role in the organisation does not change).
 - Maintainers have final say (alongside Technology Coordinator) in their respective projects and are responsible for the smooth functionting and growth of the same.
 
 NOTE: Though we do not have year-wise hierarchy, it is expected from all members to treat their juniors and seniors with love and respect.
@@ -88,15 +88,15 @@ Below are the current decided guidelines we must follow:
 - On raising issues: https://wiredcraft.com/blog/how-we-write-our-github-issues/
 - Each member shall keep openness towards learning from each other (irrespective of junior/senior).
 - There should be mutual respect for each other and same shall be presented in PR reviews, comments and all other interactions.
-- No member shall be made to feel belittle on the basis of his her knowledge or mistakes.
+- No member shall be made to feel belittle on the basis of his/her knowledge or mistakes.
 
 ### Removal Of Members
 
 It is harmful for any organisation to not tolerate slowing down and disruption of functioning due to mishaps and irresponsibility of a member. TechTeam Gymkhana has high responsibility and hence no inappropriate actions shall go unattended.
 
-All such actions shall be directly handled by present Technology Coordinator (with consultation with former Technology Coordinator) and may lead to dismissal of the member from his position of responsibility. The Technology Coordinator may choose to hold nomination for the vacancy created. In more severe cases (such as unethical distribution of credentials, hampering the provided server etc.) GymKhana Vice President shall be involved and more severe action may be taken.
+All such actions shall be directly handled by present Technology Coordinator (with consultation with former Technology Coordinator) and may lead to dismissal of the member from their position of responsibility. The Technology Coordinator may choose to hold nomination for the vacancy created. In more severe cases (such as unethical distribution of credentials, hampering the provided server etc.) Gymkhana Vice President shall be involved and more severe action may be taken.
 
-In any case, decision of Technology Coordinator shall be final and he must present valid reasons for the same. Irrational abuse of power can be reported to Vice President or the former Technology Coordinator.
+In any case, decision of Technology Coordinator shall be final and s/he must present valid reasons for the same. Irrational abuse of power can be reported to Vice President or the former Technology Coordinator.
 
 ## How It Came Into Existence?
 
