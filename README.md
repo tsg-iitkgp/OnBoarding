@@ -8,7 +8,7 @@ This document contains all the relevant information required to get to know more
 
 Technology Coordinator is a nominated post in the Technology Students' Gymkhana, Indian Institute of Technology Kharagpur. The nominated person is responsible for the technological expansion of Gymkhana and the institute and is directly responsible for maintaining the Gymkhana website and implementing proposals of various Gymkhana office bearers.
 
-The TechCord is also encouraged to have his own ideas and implement them as and when necessary and deemed appropriate after a discussion with Vice President and other associated office bearers.
+The TechCord is also encouraged to have his/her own ideas and implement them as and when necessary and deemed appropriate after a discussion with Vice President and other associated office bearers.
 
 ### How is TechCord selected
 
@@ -49,7 +49,7 @@ NOTE: **It is very important to read all the points mentioned in the etiquettes'
 
 The formation of the Gymkhana Tech Team is also the responsibility of the Technology Coordinator.
 
-The point of contact inside Gymkhana and CIC is Alokes Chattopadhyay, Deputy Chief System Manager, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - iitkgp.ac.in. You can take his assitance in case of any network or IP related issue with the server. The server is running `Ubuntu 20.04`, with kernel version 5.11.0, so find packages that will work on it.
+The point of contact inside Gymkhana and CIC is Mr Alokes Chattopadhyay, Deputy Chief System Manager, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - iitkgp.ac.in. You can take his assistance in case of any network or IP related issue with the server. The server is running `Ubuntu 20.04`, with kernel version 5.11.0, so find packages that will work on it.
 
 Addition of any new account on any platform should be added back to the sheet.
 
@@ -64,7 +64,7 @@ Below are some of the etiquettes established and are recommended to be followed:
 - Posts which are to be sent every year are present in the current GitHub repository; they must be sent again or removed after discussion with former Technology Coordinator.
 - Events to be managed are present in the folder events. These should either be conducted every academic year or marked with "[STALE]" if considered outdated or not to be done. A future coordinator may decide to restart them with discussion with former TechCord.
 - As the new Gymkhana editors are announced, an account for each should be made and credentials should be given. Along with the same, last year user accounts should be removed and their contribution should be attributed to the Technology Coordinator account. Share docs on the Ghost platform, and make sure they're comfortable with it.
-- A project timeline should be created by the Technology Coordinator at the beginning of the tenure and in the same, he should circulate a document asking all of the Gymkhana position holders to suggest updates for the website.
+- A project timeline should be created by the Technology Coordinator at the beginning of the tenure and in the same, s/he should circulate a document asking all of the Gymkhana position holders to suggest updates for the website.
 
 NOTE: It is advisable to use the existing Google Sheets for all repeating processes by creating a new sheet in the spreadsheet.
 
