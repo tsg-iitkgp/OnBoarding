@@ -171,13 +171,13 @@ The Digital Inventory System of Gymkhana was first developed by Praneeth Reddy K
 
 ### Objective
 
-The idea is to develop a single modular backend which can cater for all the frontend applications developed by the TechTeam. 
+The idea is to develop a single modular backend which can cater for all the frontend applications developed by the TechTeam. It currently hosts the Gymkhana Website and Blogs Website. 
 
 <a id="gb-maintenance"></a>
 
 ### Maintenance
 
-This project is based on Expressjs and SQLite database. There's a seperate module developed for each of the application. Do not disturb any module if you are not working on its application. Create a new module similar to the previous ones, if you are developing a new frontend and needs a backend.
+This project is based on Expressjs and SQLite database. There's a seperate module developed for each of the application. Do not disturb any module if you are not working on its application. Create a new module similar to the previous ones, if you are developing a new frontend and needs a backend. The backend is currently hosted on an EC2 instance in AWS.
 To know more, visit: [tsg-iitkgp/tsg-backend](https://github.com/tsg-iitkgp/tsg-backend)
 
 <a id="gb-existence"></a>
