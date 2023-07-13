@@ -9,20 +9,24 @@
      1. [Objective](#gw-objective)
      2. [Maintenance](#gw-maintenance)
      3. [Features](#gw-features)
-  2. [ApnaInsti](#apnainsti)
+  2. [Gymkhana Blogs Site](#tsgblogs)
+     1. [Objective](#tsgblogs-objective)
+     2. [Maintenance](#tsgblogs-maintenance)
+     3. [Existence](#tsgblogs-existence)
+  3. [ApnaInsti](#apnainsti)
      1. [Objective](#ai-objective)
      2. [Features](#ai-features)
      3. [Existence](#ai-existence)
      4. [Maintenance](#ai-maintenance)
-  3. [Inventory System](#inventory-system)
+  4. [Inventory System](#inventory-system)
      1. [Objective](#is-objective)
      2. [Maintenance](#is-maintenance)
      3. [Existence](#is-existence)
-  4. [Gymkhana Backend](#gymkhana-backend)
+  5. [Gymkhana Backend](#gymkhana-backend)
      1. [Objective](#gb-objective)
      2. [Maintenance](#gb-maintenance)
      3. [Existence](#gb-existence)
-  5. [Induction Website](induction)
+  6. [Induction Website](induction)
      1. [Objective](#iw-objective)
      2. [Maintenance](#iw-maintenance)
 
@@ -191,8 +195,11 @@ This backend application of Gymkhana was first developed by Praneeth Reddy Kolan
 ## Induction Website
 
 <a id="iw-objective"></a>
+
 ### Objective
 Although this is not a project made by the Tech Team, the induction website [http://www.inductionprogram.iitkgp.ac.in/](http://www.inductionprogram.iitkgp.ac.in/) is currently being maintained by the Tech Team to facilitate the onboarding of students through the induction program and ensure proper information display at the time of Freshers' Induction.
+
+<a id="iw-maintenance"></a>
 
 ### Maintenance
 The induction website needs corrections and relevant updates only during the induction week. Contact the respective stakeholders of the Induction Programme to ensure the credibility of the data provided. The source code is available with Computer and Informatics Centre only which can be accessed at the time of induction program.
