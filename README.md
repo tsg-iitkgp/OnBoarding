@@ -89,17 +89,23 @@ Check [TechTeam.md](TechTeam.md)
 
 For any ideas, suggestions or queries, please mail us at tech.coordi@iitkgp.ac.in
 
-#### Present Technology Coordinator
+#### Present Technology Coordinator(s)
 
-_Name:_ **Kunal Verma**<br>
-_Email:_ **kunalvrm.iitkgp@gmail.com**<br>
-_Phone:_ **+91-9354817605**
+_Name:_ **Arpit Bhardwaj**<br>
+_Email:_ **arpitbhardwaj.iitkgp@gmail.com**<br>
+_Phone:_ **+91-9761667733**
+
+_Name:_ **Parth Gupta**<br>
+_Email:_ **guptaparth.iitkgp@gmail.com**<br>
+_Phone:_ **+91-7620821543**
 
 #### Past Technology Coordinators
 
+**Kunal Verma** (2022-2023)<br/>
 **Praneeth Reddy Kolanu** (2021-2022)<br/>
 **Mukul Mehta** (2020-2021)<br/>
 **Shivam Kumar Jha** (2019-2020)<br/>
 **Dibya Prakash Das** (2018-2019)<br/>
 **Nishchal Kutarekar** (2017-2018)<br/>
-**Amey Muley** (2015-16)
+**Ankit Saini** (2016-2017)<br/>
+**Amey Muley** (2015-2016)
