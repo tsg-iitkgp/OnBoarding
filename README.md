@@ -1,33 +1,32 @@
-# Welcome To The One-Stop Knowledge Doc For Your Tenure
+# OnBoarding
 
-## OnBoarding
-
+Welcome To The One-Stop Knowledge Doc For Your Tenure.<br>
 This document contains all the relevant information required to get to know more about Technology Coordinator, Technology Students' Gymkhana and take the position as the same.
 
 ### Who Is Technology Coordinator?
 
-
 Technology Coordinator is a nominated post in the Technology Students' Gymkhana, Indian Institute of Technology Kharagpur.
 <br />
-The nominated person shall serve as the Executive Head of the Developers' Society. [Standard Operating Procedure- Developers' Society](https://github.com/tsg-iitkgp/OnBoarding/blob/master/Files/Developers'%20Society%20SOP.pdf)
+The nominated person(s) shall serve as the Executive Head of the Developers' Society. [Standard Operating Procedure- Developers' Society](https://github.com/tsg-iitkgp/OnBoarding/blob/master/Files/Developers'%20Society%20SOP.pdf)
 <br />
 The roles and responsibilites of the Technology Coordinator are as listed below.
 
 ### Roles and Responsibilities
- - technological expansion of the Gymkhana and the institute.
- - maintenance and upgradation of the official website , mobile app (ApnaInsti) and other projects of Technology Students' Gymkhana.
- - lead the Tech Team of Technology Students' Gymkhana which consists of the Web Secretaries along with the Technology Coordinator.
- - act as a bridge between the Technology Students' Gymkhana and the Developers' Society (Read SOP) as the Executive Head (ex officio).
- - handle and overlook the overall execution of the society's targets.
- - implementation of the proposals of the Gymkhana office bearers in the technical domain.
 
-### How is TechCord selected
+ - Technological expansion of the Gymkhana and the institute.
+ - Maintenance and upgradation of the official website , mobile app (ApnaInsti) and other [projects](./APPs.md) of Technology Students' Gymkhana.
+ - Lead the Tech Team of Technology Students' Gymkhana which consists of the Web Secretaries along with the Technology Coordinator.
+ - Act as a bridge between the Technology Students' Gymkhana and the Developers' Society (Read SOP) as the Executive Head (ex officio).
+ - Handle and overlook the overall execution of the society's targets.
+ - Implementation of the proposals of the Gymkhana office bearers in the technical domain.
+
+### How is Technology Coordnator selected
 
 The process for the nomination of Technology Coordinator begins after the election of new Vice President. Below are the steps for the process:
 
 ```text
 1. Request for submission of resumes of interested candidates.
-2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP, current TechCord and Previous TechCord (any, based on availability and discretion of the current Tech Coordinator).
+2. Shortlisted candidates are called for an interview chaired by the present VP, upcoming VP, current Technology Coordinator and Previous Technology Coordinator (any, based on availability and discretion of the current Technology Coordinator).
 ```
 
 ### Tech Team
@@ -38,29 +37,22 @@ The Gymkhana tech team was introduced by Shivam Kumar Jha (Technology Coordinato
 
 ### What Once Nominated?
 
-Once nominated, the new TechCord should do the following:
+Once nominated, the new Technology Coordinator should do the following:
 
 1. Go through this repository to understand the role and responsibilities better.
-
-2. Have a discussion with the previous tech coordinator, about the state of the [projects](APPs.md) they were working on, and the [TODOs](TODOs.md) from their tenure. It is important to gather their experience and learn from their mistakes.
-
+2. Have a discussion with the previous Technology Coordinator, about the state of the [projects](APPs.md) they were working on, and the [TODOs](TODOs.md) from their tenure. It is important to gather their experience and learn from their mistakes.
 3. Get added to the GitHub org as an admin.
+4. Request edit access to the credentials sheet. **DO NOT** give edit access to anybody else. If needed, make read-only copies, or preferably share only the credentials needed.
+5. Get your SSH key added to the [On-Premise Server](https://github.com/tsg-iitkgp/ops-architecture) running [Gymkhana Backend](https://github.com/tsg-iitkgp/AdminBackend), [Gymkhana Website](https://github.com/tsg-iitkgp/web-frontend).
+6. Get access to the `tech.tsgiitkgp@gmail.com` and `tech.coordi@iitkgp.ac.in`, and update the phone number and email signature to the present Technology Coordinator.
+7. Update the contacts page with the new office bearer info. We also need to update the archival data, this is done on Google Sheets presently. Get access to the formatted and compiled datasheets.
 
-4. Request edit access to the credentials sheet. DO NOT give edit access to anybody else. If needed, make read-only copies, or preferably share only the credentials needed.
-
-5. Get your SSH key added to the AWS server running [Ghost](https://ghost.org/docs/introduction/) for the [Gymkhana blog](https://tsgblog.iitkgp.ac.in/), [Gymkhana Backend](https://github.com/tsg-iitkgp/tsg-backend), [Gymkhana Website](https://github.com/tsg-iitkgp/tsg-site).
-
-6. Get your SSH key added to the Gymkhana server available in the board room of Gymkhana.
-
-7. Get access to the `tech.tsgiitkgp@gmail.com` and `tech.coordi@iitkgp.ac.in`, and update the phone number and email signature to the present tech coordinator.
-
-8. Update the contacts page with the new office bearer info. We also need to update the archival data, this is done on Google Sheets presently. Get access to the formatted and compiled datasheets.
-
-NOTE: **It is very important to read all the points mentioned in the etiquettes' section and follow (or amend) them.**
+>[!Note]
+> It is very important to read all the points mentioned in the etiquettes' section and follow (or amend) them.
 
 The formation of the Gymkhana Tech Team is also the responsibility of the Technology Coordinator.
 
-The point of contact inside Gymkhana and CIC is Mr Alokes Chattopadhyay, Deputy Chief System Manager, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - iitkgp.ac.in. You can take his assistance in case of any network or IP related issue with the server. The server is running `Ubuntu 20.04`, with kernel version 5.11.0, so find packages that will work on it.
+The point of contact inside Gymkhana and CIC is Mr Debnath Pramanik, Senior System Engineer Grade-II, Computer & Informatics Centre. Mail him the DNS record, if there's any requirement or modification of any subdomain of the institute's domain - `iitkgp.ac.in`. He is your point of contact for everything regarding network.
 
 Addition of any new account on any platform should be added back to the sheet.
 
@@ -77,17 +69,12 @@ Below are some of the etiquettes established and are recommended to be followed:
 - As the new Gymkhana editors are announced, an account for each should be made and credentials should be given. Along with the same, last year user accounts should be removed and their contribution should be attributed to the Technology Coordinator account. Share docs on the Ghost platform, and make sure they're comfortable with it.
 - A project timeline should be created by the Technology Coordinator at the beginning of the tenure and in the same, s/he should circulate a document asking all of the Gymkhana position holders to suggest updates for the website.
 
-NOTE: It is advisable to use the existing Google Sheets for all repeating processes by creating a new sheet in the spreadsheet.
-
-### Gymkhana Website
-
-Check [TechTeam.md](TechTeam.md)
+> [!Tip] 
+> It is advisable to use the existing Google Sheets for all repeating processes by creating a new sheet in the spreadsheet.
 
 ## CONTACT
 
-### General
-
-For any ideas, suggestions or queries, please mail us at tech.coordi@iitkgp.ac.in
+For any ideas, suggestions or queries, please mail us at `tech.coordi@iitkgp.ac.in`.
 
 #### Present Technology Coordinator(s)
 
