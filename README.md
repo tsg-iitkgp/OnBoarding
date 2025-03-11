@@ -78,16 +78,18 @@ For any ideas, suggestions or queries, please mail us at `tech.coordi@iitkgp.ac.
 
 #### Present Technology Coordinator(s)
 
-_Name:_ **Arpit Bhardwaj**<br>
-_Email:_ **arpitbhardwaj.iitkgp@gmail.com**<br>
-_Phone:_ **+91-9761667733**
+_Name:_ **Harsh Bansal**<br>
+_Email:_ **harshbansal.iitkgp@gmail.com**<br>
+_Phone:_ **+91-9821391634**
 
-_Name:_ **Parth Gupta**<br>
-_Email:_ **guptaparth.iitkgp@gmail.com**<br>
-_Phone:_ **+91-7620821543**
+_Name:_ **Akash Manna**<br>
+_Email:_ **mannaakash.iitkgp@gmail.com**<br>
+_Phone:_ **+91-8282901570**
 
 #### Past Technology Coordinators
 
+**Arpit Bhardwaj** (2023-2024)<br/>
+**Parth Gupta** (2023-2024)<br/>
 **Kunal Verma** (2022-2023)<br/>
 **Praneeth Reddy Kolanu** (2021-2022)<br/>
 **Mukul Mehta** (2020-2021)<br/>
