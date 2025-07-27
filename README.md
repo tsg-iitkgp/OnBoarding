@@ -9,12 +9,12 @@ Technology Coordinator is a nominated post in the Technology Students' Gymkhana,
 <br />
 The nominated person(s) shall serve as the Executive Head of the Developers' Society. [Standard Operating Procedure- Developers' Society](https://github.com/tsg-iitkgp/OnBoarding/blob/master/Files/Developers'%20Society%20SOP.pdf)
 <br />
-The roles and responsibilites of the Technology Coordinator are as listed below.
+The roles and responsibilities of the Technology Coordinator are as listed below.
 
 ### Roles and Responsibilities
 
  - Technological expansion of the Gymkhana and the institute.
- - Maintenance and upgradation of the official website , mobile app (ApnaInsti) and other [projects](./APPs.md) of Technology Students' Gymkhana.
+ - Maintenance and upgradation of the official website, mobile app (ApnaInsti) and other [projects](./APPs.md) of Technology Students' Gymkhana.
  - Lead the Tech Team of Technology Students' Gymkhana which consists of the Web Secretaries along with the Technology Coordinator.
  - Act as a bridge between the Technology Students' Gymkhana and the Developers' Society (Read SOP) as the Executive Head (ex officio).
  - Handle and overlook the overall execution of the society's targets.
@@ -78,16 +78,17 @@ For any ideas, suggestions or queries, please mail us at `tech.coordi@iitkgp.ac.
 
 #### Present Technology Coordinator(s)
 
-_Name:_ **Harsh Bansal**<br>
-_Email:_ **harshbansal.iitkgp@gmail.com**<br>
-_Phone:_ **+91-9821391634**
+_Name:_ **Daksh Yadav**<br/>
+_Email:_ **dakshyadav.iitkgp@gmail.com**<br/>
+_Phone:_ **+91-8795675974**
 
-_Name:_ **Akash Manna**<br>
-_Email:_ **mannaakash.iitkgp@gmail.com**<br>
-_Phone:_ **+91-8282901570**
+_Name:_ **Devansh Soni**<br/>
+_Email:_ **devanshsoni.iitkgp@gmail.com**<br/>
+_Phone:_ **+91-7999892181**
 
 #### Past Technology Coordinators
-
+**Harsh Bansal** (2024-2025)<br/>
+**Akash Manna** <br/>
 **Arpit Bhardwaj** (2023-2024)<br/>
 **Parth Gupta** (2023-2024)<br/>
 **Kunal Verma** (2022-2023)<br/>
