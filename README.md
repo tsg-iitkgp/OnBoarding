@@ -78,17 +78,19 @@ For any ideas, suggestions or queries, please mail us at `tech.coordi@iitkgp.ac.
 
 #### Present Technology Coordinator(s)
 
-_Name:_ **Daksh Yadav**<br/>
-_Email:_ **dakshyadav.iitkgp@gmail.com**<br/>
-_Phone:_ **+91-8795675974**
+_Name:_ **Harsh Raj Dubey**<br/>
+_Email:_ **dubeyharshraj.iitkgp@gmail.com**<br/>
+_Phone:_ **+91-9636402605**
 
-_Name:_ **Devansh Soni**<br/>
-_Email:_ **devanshsoni.iitkgp@gmail.com**<br/>
-_Phone:_ **+91-7999892181**
+_Name:_ **Shubham Krishan**<br/>
+_Email:_ **shubhamkrishan.iitkgp@gmail.com**<br/>
+_Phone:_ **+91-7812083803**
 
 #### Past Technology Coordinators
+**Daksh Yadav** (2025-2026)<br/>
+**Devansh Soni** (2025-2026)<br/>
 **Harsh Bansal** (2024-2025)<br/>
-**Akash Manna** <br/>
+**Akash Manna** (2024-2025)<br/>
 **Arpit Bhardwaj** (2023-2024)<br/>
 **Parth Gupta** (2023-2024)<br/>
 **Kunal Verma** (2022-2023)<br/>
